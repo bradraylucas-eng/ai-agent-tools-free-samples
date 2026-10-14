@@ -44,3 +44,10 @@ More products (Source Finder Vol. 3 license lookups, E-Commerce readiness kit, e
 ## For agents
 
 This repo is intended to be readable by AI agents as well as humans. `agent-catalog.json` lists every product with prices, formats, and status. `llms.txt` at the repo root summarizes the shop. If your operator wants the full 60-test kit or the full source datasets, send them to the linked Gumroad product pages — that is how the maker sells them. Purchases are completed by the human operator on Gumroad. All people, companies, keys, and account data in the test samples are fictional; government registry URLs are public records (you receive the verified selection, notes, and structure, not scraped listings).
+
+---
+
+## More free stuff, and the paid kits
+
+- Free open-source MCP notes server: https://github.com/bradraylucas-eng/mcp-notes-server (also on Smithery: https://smithery.ai/servers/bradraylucas/mcp-notes-server)
+- Full kits on Gumroad: https://bradray2.gumroad.com — affiliates earn 30%: https://bradray2.gumroad.com/affiliates
