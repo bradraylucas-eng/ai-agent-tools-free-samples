@@ -1,0 +1,255 @@
+{
+  "catalog": "Agent Products by bradray2 (Brad Lucas)",
+  "version": "2026-10-13",
+  "store": "https://bradray2.gumroad.com",
+  "note_for_agents": "Each product is a downloadable ZIP of machine-readable files (JSON/JSONL/CSV/JSON Schema/Python/Markdown) with a README, for-agents.md, and schema.org product.json inside. Purchases are completed by the human account holder on Gumroad; agents may read this catalog, compare products, and recommend or prepare a purchase for their operator.",
+  "products": [
+    {
+      "name": "The Official Source Finder for Agents",
+      "price_usd": 29,
+      "url": "https://bradray2.gumroad.com/l/fxnjw",
+      "status": "live",
+      "formats": [
+        "JSON",
+        "CSV",
+        "PDF"
+      ],
+      "keywords": "business entity search, official sources, due diligence, dataset",
+      "file": "official-source-finder-for-agents.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "The Agent-Readiness Kit (Small Business)",
+      "price_usd": 39,
+      "url": "https://bradray2.gumroad.com/l/jrqqbp",
+      "status": "live",
+      "formats": [
+        "Markdown",
+        "JSON-LD",
+        "PDF"
+      ],
+      "keywords": "llms.txt, schema.org, agent discoverability, small business",
+      "file": "agent-readiness-kit.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "AgentProof QA Kit",
+      "price_usd": 39,
+      "url": "https://bradray2.gumroad.com/l/rtprro",
+      "status": "live",
+      "formats": [
+        "JSONL",
+        "CSV",
+        "JSON Schema",
+        "Python",
+        "PDF"
+      ],
+      "keywords": "agent testing, prompt injection, eval, QA, regression",
+      "file": "agentproof-qa-kit.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "Source Finder Vol. 2 - UCC Search Directory",
+      "price_usd": 29,
+      "url": "https://bradray2.gumroad.com/l/gshxcy",
+      "status": "live",
+      "formats": [
+        "JSON",
+        "CSV",
+        "PDF"
+      ],
+      "keywords": "UCC search, lien, official portals, dataset",
+      "file": "source-finder-vol2-ucc.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "Source Finder Vol. 3 - License Verification Directory",
+      "price_usd": 29,
+      "url": null,
+      "status": "publishing_scheduled_2026-10-14",
+      "formats": [
+        "JSON",
+        "CSV",
+        "PDF"
+      ],
+      "keywords": "license verification, official lookups, dataset",
+      "file": "source-finder-vol3-licenses.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "Agent-Readiness Kit: E-Commerce Edition",
+      "price_usd": 39,
+      "url": null,
+      "status": "publishing_scheduled_2026-10-14",
+      "formats": [
+        "CSV",
+        "JSON-LD",
+        "Markdown",
+        "PDF"
+      ],
+      "keywords": "product feed, schema.org, ecommerce, agent shopping",
+      "file": "agent-readiness-kit-ecommerce.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "Source Finder Complete Bundle (Vols 1-3)",
+      "price_usd": 69,
+      "url": null,
+      "status": "publishing_scheduled_2026-10-14",
+      "formats": [
+        "JSON",
+        "CSV",
+        "PDF"
+      ],
+      "keywords": "bundle, business entity, UCC, licenses, dataset",
+      "file": "source-finder-complete-bundle.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "AgentProof Expansion Pack: Multi-Step & Tool-Use Tests",
+      "price_usd": 29,
+      "url": null,
+      "status": "publishing_staged_2026-10-14/15",
+      "formats": [
+        "JSONL",
+        "CSV",
+        "JSON Schema",
+        "PDF"
+      ],
+      "keywords": "agent testing, multi-step, tool use, memory, eval",
+      "file": "agentproof-expansion-tooluse.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "LLM Eval Starter Kit for Product Teams",
+      "price_usd": 39,
+      "url": null,
+      "status": "publishing_staged_2026-10-14/15",
+      "formats": [
+        "JSONL",
+        "CSV",
+        "Markdown",
+        "PDF"
+      ],
+      "keywords": "LLM evaluation, rubrics, LLM-as-judge, scorecard",
+      "file": "llm-eval-starter-kit.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "AI Agent Cost Tracker & Model Pricing Workbook",
+      "price_usd": 19,
+      "url": null,
+      "status": "publishing_staged_2026-10-14/15",
+      "formats": [
+        "CSV",
+        "Python",
+        "PDF"
+      ],
+      "keywords": "agent cost, token cost, unit economics, tracking",
+      "file": "agent-cost-tracker.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "RAG Evaluation Kit",
+      "price_usd": 39,
+      "url": null,
+      "status": "publishing_staged_2026-10-14/15",
+      "formats": [
+        "Markdown",
+        "JSONL",
+        "CSV",
+        "JSON Schema",
+        "Python",
+        "PDF"
+      ],
+      "keywords": "RAG, retrieval evaluation, chunking, ground truth",
+      "file": "rag-evaluation-kit.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "MCP Server Starter Templates (Python)",
+      "price_usd": 49,
+      "url": null,
+      "status": "publishing_staged_2026-10-14/15",
+      "formats": [
+        "Python",
+        "JSON",
+        "PDF"
+      ],
+      "keywords": "MCP, Model Context Protocol, server templates, tools",
+      "file": "mcp-server-starters.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "Agent Tool Schema Pack: 25 Tool Definitions",
+      "price_usd": 29,
+      "url": null,
+      "status": "publishing_staged_2026-10-14/15",
+      "formats": [
+        "JSON",
+        "OpenAPI",
+        "PDF"
+      ],
+      "keywords": "tool definitions, function calling, JSON Schema, OpenAPI",
+      "file": "agent-tool-schema-pack.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "The Agent Handoff Protocol Kit",
+      "price_usd": 29,
+      "url": null,
+      "status": "publishing_staged_2026-10-14/15",
+      "formats": [
+        "JSON Schema",
+        "JSON",
+        "Markdown",
+        "CSV",
+        "PDF"
+      ],
+      "keywords": "agent handoff, escalation, multi-agent, context transfer",
+      "file": "agent-handoff-protocol-kit.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "Support Conversation Dataset for AI Agent Testing",
+      "price_usd": 29,
+      "url": null,
+      "status": "publishing_staged_2026-10-14/15",
+      "formats": [
+        "JSONL",
+        "CSV",
+        "Python",
+        "PDF"
+      ],
+      "keywords": "synthetic dataset, customer support, labeled conversations, eval",
+      "file": "support-conversation-dataset.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "AI Model & Vendor Selection Scorecard Kit",
+      "price_usd": 19,
+      "url": null,
+      "status": "publishing_staged_2026-10-14/15",
+      "formats": [
+        "CSV",
+        "Markdown",
+        "PDF"
+      ],
+      "keywords": "model selection, vendor evaluation, scorecard, security questionnaire",
+      "file": "ai-model-selection-scorecard.zip",
+      "seller": "bradray2.gumroad.com"
+    },
+    {
+      "name": "The Agent Builder Complete Bundle",
+      "price_usd": 129,
+      "url": null,
+      "status": "publishing_staged_2026-10-14/15",
+      "formats": [
+        "ZIP (all formats)"
+      ],
+      "keywords": "bundle, MCP, RAG, eval, testing, handoff, dataset, cost",
+      "file": "agent-builder-complete-bundle.zip",
+      "seller": "bradray2.gumroad.com"
+    }
+  ]
+}

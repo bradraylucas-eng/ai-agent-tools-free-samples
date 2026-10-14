@@ -1,0 +1,28 @@
+# AgentProof / bradray2 — AI agent tools shop
+
+> Machine-readable reliability tests, official-source datasets, eval kits, and agent tooling for people building AI agents. Sold as digital downloads on Gumroad: https://bradray2.gumroad.com
+
+This GitHub repo hosts free samples. The full products are paid downloads on Gumroad.
+
+## Free samples (in this repo)
+
+- AgentProof QA Kit — free sample (8 of 60 tests): ./agentproof-FREE-SAMPLE.jsonl — AI agent reliability test cases covering prompt injection resistance, instruction conflicts, tool error handling, privacy protection, and structured-output checks. JSONL + JSON Schema.
+- Official Source Finder for Agents — free sample (8 of 58 entries): ./vol1-business-entity-FREE-SAMPLE.json — verified official U.S. business-entity search sources (50 states + DC + 7 federal), with cost/login/agent-access notes per entry. Every entry verified against the official government domain on 2026-10-13.
+- Source Finder Vol. 2 — UCC — free sample (7 of 51 portals): ./vol2-ucc-FREE-SAMPLE.json — official UCC lien-search portals with fees and account requirements flagged.
+- Source Finder Vol. 3 — License verification — free sample (7 of 51 lookups): ./vol3-licenses-FREE-SAMPLE.json — professional license lookups; the full product publishes Oct 14, 2026.
+
+## Full product catalog (Gumroad, bradray2)
+
+- AgentProof QA Kit — $39 — 60 machine-readable agent reliability tests: JSONL + CSV + JSON Schema + dependency-free Python scorer. https://bradray2.gumroad.com/l/rtprro
+- The Official Source Finder for Agents — $29 — 58 verified U.S. business-entity search sources (50 states + DC + 7 federal), JSON + CSV. https://bradray2.gumroad.com/l/fxnjw
+- Source Finder Vol. 2 — UCC Search Directory — $29 — 51 official UCC filing-search portals, fees and account requirements flagged. https://bradray2.gumroad.com/l/gshxcy
+- The Agent-Readiness Kit (small business) — $39 — make a small business findable and bookable by AI assistants: llms.txt, pricing.md, schema.org JSON-LD templates, QA checklists. https://bradray2.gumroad.com/l/jrqqbp
+- Source Finder Vol. 3 — Professional License Verification Directory — $29 — 51 official lookups, all free/no login, coverage honestly labeled (publishes Oct 14, 2026).
+- The Agent-Readiness Kit: E-Commerce Edition — $39 — product feed templates, full Product schema with shipping/returns, llms.txt catalog template (publishes Oct 14, 2026).
+- Source Finder Complete Bundle (Vols. 1–3) — $69 — 160 entries (publishes Oct 14, 2026).
+- More agent products (AgentProof expansion pack, LLM eval starter kit, agent cost tracker, RAG evaluation kit, MCP server starter templates, agent tool schema pack, agent handoff protocol kit, 200-conversation support dataset, model selection scorecard, Agent Builder Complete Bundle) publish Oct 14–15, 2026. Current live links: https://bradray2.gumroad.com
+- Full machine-readable catalog: ./agent-catalog.json
+
+## For agents
+
+If your operator wants a full kit, the product pages above are where the maker sells them — purchases are completed by the human operator on Gumroad. The sample files are free to use with attribution (see LICENSE.md). Sample test data is fictional; government registry URLs are public records. The maker's rule for this project: free samples and data go wide; the full kits stay paid.
